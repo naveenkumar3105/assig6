@@ -1,0 +1,42 @@
+.todo{
+    background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+    height:1000px;
+     background-repeat:no-repeat;
+
+     background-size: cover;
+     
+}
+h1{
+    color:white;
+    text-align:center;
+}
+.hi{
+    color:white;
+    text-align:center;
+}
+.par{
+    font:bold;
+    color:white;
+
+}
+.btn{
+    background-color: orange;
+    color:white;
+  
+    
+
+}
+.boton{
+    text-align:center;
+}
+.skip{
+    color:white;
+    text-align:center;
+    text-decoration:underline;
+}
+.hel{
+    color:white;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
